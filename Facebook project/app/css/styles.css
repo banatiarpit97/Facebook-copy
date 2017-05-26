@@ -1,0 +1,229 @@
+.header{
+	background-color: #2556B3;
+	height: 82px;
+	width: 100%;
+}
+
+.facebook{
+	color: white;
+	font-weight: bolder;
+	padding-top: 8px;
+	padding-left: 60px;
+	font-size: 40px;
+}
+
+.email, .password{
+	height: 24px;
+	width: 148px;
+	border-color: black;
+	border-width: 0.5px;
+}
+
+.emdiv, .psdiv{
+	padding-top: 10px;
+	margin-right: 25px;
+}
+
+.logindiv{
+	margin-right: -50px;
+	margin-top: 34px;
+}
+
+.loginbut{
+	color: white;
+	background-color: #3D72D7;
+	height: 24px;
+	width: 44px;
+	font-size: 0.82em;
+	font-weight: 700;
+	padding-left: 4px;
+	border-color: black;
+	border-width: 0.2px;
+}
+
+.emp, .pp{
+	color: white;
+	margin-bottom: 4px;
+}
+
+.fap{
+	margin-top: 3px;
+	font-size: .9em;
+	color: #A9C5FA;
+}
+
+.maincont{
+	margin-top: -5px;
+	background-color: #EEF1F7;
+}
+
+.tagline{
+	color: #0F275B;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 44px;
+	padding-left: 60px;
+}	
+
+.connected{
+	padding-left: 60px;
+}
+
+.signup{
+	margin-top: 18px;
+	margin-left: 90px;
+}
+
+.create{
+	color: #0F275B;
+	font-size: 2.7em;
+	font-weight: bold;
+}
+
+.free{
+	color: #0F275B;
+	font-size: 1.3em;
+	margin-top: -5px;
+}
+
+.name{
+	width: 193px;
+	height: 38px;
+	padding-left: 10px;
+	font-size: 18px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+	border-radius: 4px;
+}
+
+.first_name{
+	margin-right: 11px;
+}
+
+.mob_pass{
+	padding-left: 10px;
+	font-size: 18px;
+	width: 399px;
+	height: 38px;
+	margin-top: 19px;
+    border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+	border-radius: 4px;
+}
+
+.birthday{
+	margin-top: 20px;
+	font-size: 1.25em;
+	margin-bottom: 5px;
+}
+
+
+select{
+	margin-right: -4px;
+	height: 30px;
+}
+
+.day{
+	width: 55px;
+}
+
+.month{
+	width: 69px;
+}
+
+.year{
+	width: 62px;
+}
+
+.why{
+	font-size: .8em;
+	float: 	right;
+	position:absolute;	
+	right: 90px;
+}
+
+.gender{
+	margin-top: 15px;
+}
+
+.malecheck, .femalecheck{
+	border-style: solid;
+	border-style: solid;
+    border-radius: 	100px;
+    cursor: pointer;
+}
+
+.female, .male{
+	margin-right: 23px;
+	margin-left: 7px;
+	font-size: 1.3em;
+     
+}
+
+
+
+.terms{
+	color: grey;
+	font-size: 0.8em;
+	margin-top: 15px;
+}
+
+.createbut{
+	height: 40px;
+	width: 	209px;
+	margin-top: 12px;
+	background-color: #43A333;
+	color: 	white;
+	font-weight: bold;
+	font-size: 1.3em;
+	border-radius: 5px;
+	border-width: .2px;
+	border-color: black;
+}
+
+.page{
+	color: grey;
+	margin-top: 20px;
+
+}
+
+.language{
+	padding-top: 7px;
+}
+
+.language li{
+	font-size: 0.85em;
+}
+
+.language li button{
+	width: 30px;
+	background-color: white;
+	border-color: #E0E4E0;
+	border-width: 1px;
+}
+
+
+.language li button span{
+	color: grey;
+	font-size: 0.9em;
+}
+
+hr{
+	width: 	94%;
+	border-color: #C3C7C3;
+	margin-top: 2px;
+}
+
+.footlinks li{
+	margin-right: 20px;
+	font-size: 0.9em;
+	margin-bottom: 5px;
+}
+
+.copy{
+	margin-top: 30px;
+	font-size: 0.7em;
+	color: grey;
+}

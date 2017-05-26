@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Arpit Banati"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

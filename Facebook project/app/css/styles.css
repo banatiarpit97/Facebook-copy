@@ -1,3 +1,6 @@
+html{
+	overflow-x: hidden;	
+}
 .header{
 	background-color: #2556B3;
 	height: 82px;
@@ -17,6 +20,8 @@
 	width: 148px;
 	border-color: black;
 	border-width: 0.5px;
+	padding: 4px;
+	font-size: 12px;
 }
 
 .emdiv, .psdiv{
@@ -33,8 +38,8 @@
 	color: white;
 	background-color: #3D72D7;
 	height: 24px;
-	width: 44px;
-	font-size: 0.82em;
+	width: 47px;
+	font-size: 0.9em;
 	font-weight: 700;
 	padding-left: 4px;
 	border-color: black;
@@ -50,6 +55,7 @@
 	margin-top: 3px;
 	font-size: .9em;
 	color: #A9C5FA;
+	width: 115px;
 }
 
 .maincont{
